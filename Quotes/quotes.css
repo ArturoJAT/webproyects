@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body{
+    background-color: #2B2E39;
+    color:white;
+    font-family: Helvetica, sans-serif,Arial; 
+}
+h1{
+    text-align: center;
+    margin-top:10% ;
+    font-size: 50px;
+    font-family: Lobster ,Helvetica,Arial;
+}
+
+cite{
+    font-size: 18px;
+}
+hr{
+  background-color:#DE4F4F;
+   display: block;
+   height: 1px;
+   border: 0;
+   margin-top:5% ;
+    margin-bottom: 5% ;
+
+   padding: 0; 
+}
+footer{
+    text-align: center;
+    color:white;
+}
+.footerLink{
+    color: white;
+}
+.footerLink:hover{
+    color: grey;
+}
+.footerLink:visited{
+    color:white;
+}
+.quoteBox{
+    position: relative;
+    margin: 8px auto auto auto;
+    padding: 40px 60px;
+    border-radius: 3px;
+    background-color: white;
+    color:#2B2E39;
+    text-align: center;
+    width: 500px;
+
+}
+.quoteText{
+    margin:0;
+    font-size:18px;
+}
+.getBtn{
+    margin-top:20px;
+    background-color: #DE4F4F;
+    color:white;
+}
+.getBtn:hover{
+    color:white;
+    background-color: #FF5B5B;
+
+}
