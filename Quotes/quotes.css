@@ -63,3 +63,13 @@ footer{
     background-color: #FF5B5B;
 
 }
+.tweetBtn{
+    margin-top:20px;
+    background-color: #00aced;
+    color:white;
+}
+.tweetBtn:hover{
+    color:white;
+    background-color: #00B9FF;
+
+}
